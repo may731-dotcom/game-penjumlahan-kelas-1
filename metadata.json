@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Bermain — Matematika Bilangan Kelas 1 SD",
+  "description": "Game edukasi matematika bilangan interaktif dengan sistem peringkat dan pangkat yang menarik untuk siswa kelas 1 SD di ruangbermain.site.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
